@@ -1,0 +1,9 @@
+{
+  "name": "bankist_portfoy",
+  "description": "Bankist App Portföy",
+  "author": "Mihraç Comart",
+  "version": "1.0.0",
+  "default": "index.html",
+  "scripts": {},
+  "license": "ISC"
+}

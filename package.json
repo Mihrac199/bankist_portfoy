@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.14.0"
+  },
+  "devDependencies": {
+    "svgo": "^3.3.2"
+  }
+}
